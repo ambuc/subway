@@ -1,0 +1,457 @@
+Van Cortlandt Park 242 St, 1, stop, BX
+238 St, 1, stop, BX
+231 St, 1, stop, BX
+Marble Hill 225 St, 1, stop, BX
+215 St, 1, stop, MH
+207 St, 1, stop, MH
+Dyckman St, 1, stop, MH
+191 St, 1, stop, MH
+181 St, 1, stop, MH
+168 St, AC1, junc, MH
+157 St, 1, stop, MH
+145 St, 1, stop, MH
+137 St City College, 1, stop, MH
+125 St, 1, stop, MH
+116 St Columbia University, 1, stop, MH
+Cathedral Pkwy (110 St), 1, stop, MH
+103 St, 1, stop, MH
+96 St, 123, junc, MH
+86 St, 1, stop, MH
+79 St, 1, stop, MH
+72 St, 123, junc, MH
+66 St, 1, stop, MH
+59 St Columbus Circle, ABCD1, junc, MH
+50 St, 1, stop, MH
+Times Sq - 42 St, NQRS1237x, junc, MH
+34 St Penn Station, 123, junc, MH
+28 St, 1, stop, MH
+23 St, 1, stop, MH
+18 St, 1, stop, MH
+14 St, 123x, junc, MH
+Christopher St Sheridan Sq, 1, stop, MH
+Houston St, 1, stop, MH
+Canal St, 1, stop, MH
+Franklin St, 1, stop, MH
+Chambers St, 123, junc, MH
+Rector St, 1, stop, MH
+South Ferry, 1xy, stop, MH
+Wakefield 241 St, 2, stop, BX
+Nereid Av, 2, stop, BX
+233 St, 2, stop, BX
+225 St, 2, stop, BX
+219 St, 2, stop, BX
+Gun Hill Rd, 2, stop, BX
+Burke Av, 2, stop, BX
+Allerton Av, 2, stop, BX
+Pelham Pkwy, 2, stop, BX
+Bronx Park East, 2, stop, BX
+E 180 St, 25, junc, BX
+174 St, 25, stop, BX
+Freeman St, 25, stop, BX
+Simpson St, 25, stop, BX
+Intervale Av, 25, stop, BX
+Prospect Av, 25, stop, BX
+Jackson Av, 25, stop, BX
+3 Av - 149 St, 25, junc, BX
+149 St - Grand Concourse, 245, junc, BX
+135 St, 23, stop, MH
+125 St, 23, stop, MH
+116 St, 23, stop, MH
+Central Park North (110 St), 23, stop, MH
+Park Place, 23x, stop, MH
+Fulton St, ACJZ2345, junc, MH
+Wall St, 23, stop, MH
+Clark St, 23, stop, BK
+Borough Hall, 2345x, junc, BK
+Hoyt St, 23, stop, BK
+Nevins St, 2345, junc, BK
+Atlantic Av - Barclays Ctr, BDNRQ2345, junc, BK
+Bergen St, 23, stop, BK
+Grand Army Plaza, 23, stop, BK
+Eastern Pkwy Brooklyn Museum, 23, stop, BK
+Franklin Av, 2345x, junc, BK
+President St, 25, stop, BK
+Sterling St, 25, stop, BK
+Winthrop St, 25, stop, BK
+Church Av, 25, stop, BK
+Beverly Rd, 25, stop, BK
+Newkirk Av, 25, stop, BK
+Flatbush Av Brooklyn College, 25, stop, BK
+Harlem 148 St, 3, stop, MH
+145 St, 3, stop, MH
+Nostrand Av, 3, stop, BK
+Kingston Av, 3, stop, BK
+Crown Hts Utica Av, 34, junc, BK
+Sutter Av - Rutland Rd, 3, stop, BK
+Saratoga Av, 3, stop, BK
+Rockaway Av, 3, stop, BK
+Junius St, 3, stop, BK
+Pennsylvania Av, 3, stop, BK
+Van Sicien Av, 3, stop, BK
+New Lots Av, 3, stop, BK
+Woodlawn, 4, stop, BX
+Mosholu Pkwy, 4, stop, BX
+Bedford Pk Blvd Lehman College, 4, stop, BX
+Kingsbridge Rd, 4, stop, BX
+Fordham Rd, 4, stop, BX
+183 St, 4, stop, BX
+Burnside Av, 4, stop, BX
+176 St, 4, stop, BX
+Mt Eden Av, 4, stop, BX
+170 St, 4, stop, BX
+167 St, 4, stop, BX
+161 St Yankee Stadium, BD4, stop, BX
+138 St - Grand Concourse, 45, stop, BX
+125 St, 456, junc, MH
+86 St, 456, junc, MH
+59 St, 456x, junc, MH
+Grand Central 42 St, S4567, junc, MH
+14 St - Union Sq, LNQR456, junc, MH
+Brooklyn Bridge City Hall, 456x, junc, MH
+Wall St, 45, junc, MH
+Bowling Green, 45, junc, MH
+Eastchester Dyre Av, 5, stop, BX
+Baychester Av, 5, stop, BX
+Gun Hill Rd, 5, stop, BX
+Pelham Pkwy, 5, stop, BX
+Morris Park, 5, stop, BX
+Pelham Bay Park, 6, stop, BX
+Buhre Av, 6, stop, BX
+Middletown Rd, 6, stop, BX
+Westchester Sq East Tremont Av, 6, stop, BX
+Zerega Av, 6, stop, BX
+Castle Hill Av, 6, stop, BX
+Parkchester, 6, junc, BX
+St Lawrence Av, 6, stop, BX
+Morrison Av Soundview, 6, stop, BX
+Elder Av, 6, stop, BX
+Whitlock Av, 6, stop, BX
+Hunts Point Av, 6, junc, BX
+Longwood Av, 6, stop, BX
+E 149 St, 6, stop, BX
+E 143 St St Mary's St, 6, stop, BX
+Cypress Av, 6, stop, BX
+Brook Av, 6, stop, BX
+3 Av 138 St, 6, junc, BX
+116 St, 6, stop, MH
+110 St, 6, stop, MH
+103 St, 6, stop, MH
+96 St, 6, stop, MH
+77 St, 6, stop, MH
+68 St Hunter College, 6, stop, MH
+51 St, 6x, stop, MH
+33 St, 6, stop, MH
+28 St, 6, stop, MH
+23 St, 6, stop, MH
+Astor Pl, 6, stop, MH
+Bleecker St, 6x, stop, MH
+Spring St, 6, stop, MH
+Canal St, JNQRZ6, junc, MH
+5 Av, 7x, stop, MH
+Vernon Blvd Jackson Av, 7, stop, QS
+Hunters Point Av, 7, stop, QS
+Court Sq, G7x, stop, QS
+Queensboro Plaza, NQ7, junc, QS
+33 St - Rawson St, 7, stop, QS
+40 St Lowery St, 7, stop, QS
+46 St Bliss St, 7, stop, QS
+52 St, 7, stop, QS
+61 St Woodside, 7, junc, QS
+69 St, 7, stop, QS
+74 St - Broadway, 7x, stop, QS
+82 St - Jackson Hts, 7, stop, QS
+90 St - Elmhurst Av, 7, stop, QS
+Junction Blvd, 7, junc, QS
+103 St - Corona Plaza, 7, stop, QS
+111 St, 7, stop, QS
+Mets-Willets Point, 7, junc, QS
+Flushing Main St, 7, junc, QS
+Inwood 207 St, A, stop, MH
+Dyckman St, A, stop, MH
+190 St, A, stop, MH
+181 St, A, stop, MH
+175 St, A, stop, MH
+145 St, ABCD, junc, MH
+125 St, ABCD, junc, MH
+42 St Port Authority Bus Terminal, ACEx, junc, MH
+34 St Penn Station, ACE, junc, MH
+14 St 8 Av, ACEL, junc, MH
+W 4 St Wash Sq, ABCDEFM, junc, MH
+Canal St, ACE, junc, MH
+Chambers St (Church St), ACx, junc, MH
+High St, AC, junc, BK
+Jay St MetroTech, ACFR, junc, BK
+Hoyt Schermerhorn, ACG, junc, BK
+Nostrand Av, AC, junc, BK
+Utica Av, AC, junc, BK
+Broadway Junction, ACJLZ, junc, BK
+Euclid Av, AC, junc, BK
+Grant Av, A, stop, BK
+80 St, A, stop, QS
+88 St, A, stop, QS
+Rockaway Blvd, A, stop, QS
+104 St, A, stop, QS
+111 St, A, stop, QS
+Ozone Park Lefferts Blvd, A, stop, QS
+Aqueduct Racetrack, A, stop, QS
+Aqueduct North Conduit Av, A, stop, QS
+Howard Beach JFK Airport, A, stop, QS
+Broad Channel, AS, stop, QS
+Beach 67 St, A, stop, QS
+Beach 60 St, A, stop, QS
+Beach 44 St, A, stop, QS
+Beach 36 St, A, stop, QS
+Beach 25 St, A, stop, QS
+Far Rockaway Mott Av, A, stop, QS
+Beach 90 St, AS, stop, QS
+Beach 98 St, AS, stop, QS
+Beach 105 St, AS, stop, QS
+Rockaway Park Beach 116 St, AS, stop, QS
+163 St - Amsterdam Av, C, stop, MH
+155 St, C, stop, MH
+135 St, BC, stop, MH
+116 St, BC, stop, MH
+Cathedral Pkwy (110 St), BC, stop, MH
+103 St, BC, stop, MH
+96 St, BC, stop, MH
+86 St, BC, stop, MH
+81 St - Museum of Natural History, BC, stop, MH
+72 St, BC, stop, MH
+50 St, CE, stop, MH
+23 St, CE, stop, MH
+Spring St, CE, stop, MH
+Lafayette Av, C, stop, BK
+Clinton Washington Avs, C, stop, BK
+Franklin Av, CS, stop, BK
+Kingston Throop Avs, C, stop, BK
+Ralph Av, C, stop, BK
+Rockaway Av, C, stop, BK
+Liberty Av, C, stop, BK
+Van Siclen Av, C, stop, BK
+Shepherd Av, C, stop, BK
+Jamaica Center Parsons/Archer, EJZ, junc, QS
+Sutphin Blvd Archer Av JFK Airport, EJZ, junc, QS
+Jamaica Van Wyck, E, stop, QS
+Briarwood Van Wyck Blvd, EF, stop, QS
+Kew Gardens Union Tpke, EF, junc, QS
+75 Av, EF, stop, QS
+Forest Hills 71 Av, EFMR, junc, QS
+Jackson Hts Roosevelt Av, EFMRx, junc, QS
+Queens Plaza, EMR, junc, QS
+Court Sq - 23 St, EMx, junc, QS
+Lexington Av/53 St, EMx, junc, MH
+5 Av/53 St, EM, junc, MH
+7 Av, BDE, junc, MH
+World Trade Center, Ex, stop, MH
+Bedford Pk Blvd, BD, junc, BX
+Kingsbridge Rd, BD, junc, BX
+Fordham Rd, BD, junc, BX
+182-183 Sts, BD, stop, BX
+Tremont Av, BD, junc, BX
+174-175 Sts, BD, stop, BX
+170 St, BD, stop, BX
+167 St, BD, stop, BX
+155 St, BD, stop, MH
+47-50 Sts Rockefeller Ctr, BDFM, junc, MH
+42 St Bryant Pk, BDFMx, junc, MH
+34 St Herald Sq, BDFMNQR, junc, MH
+B'way - Lafayette St, BDFMx, junc, MH
+Grand St, BD, junc, MH
+DeKalb Av, BQR, junc, BK
+7 Av (BK), BQ, junc, BK
+Prospect Park, BQS, junc, BK
+Church Av, BQ, junc, BK
+Newkirk Plaza, BQ, junc, BK
+Kings Hwy, BQ, junc, BK
+Sheepshead Bay, BQ, junc, BK
+Brighton Beach, BQ, junc, BK
+Norwood 205 St, D, junc, BX
+36 St, DNR, junc, BK
+9 Av, D, stop, BK
+Fort Hamilton Pkwy, D, stop, BK
+50 St, D, stop, BK
+55 St, D, stop, BK
+62 St, Dx, stop, BK
+71 St, D, stop, BK
+79 St, D, stop, BK
+18 Av, D, stop, BK
+20 Av, D, stop, BK
+Bay Pkwy, D, stop, BK
+25 Av, D, stop, BK
+Bay 50 St, D, stop, BK
+Coney Island Stillwell Av, DFNQ, junc, BK
+Jamaica 179 St, F, stop, QS
+169 St, F, stop, QS
+Parsons Blvd, F, stop, QS
+Sutphin Blvd, F, stop, QS
+21 St Queensbridge, F, stop, QS
+Roosevelt Island, F, stop, MH
+Lexington Av/63 St, Fx, stop, MH
+57 St, F, stop, MH
+23 St, FM, stop, MH
+14 St 6 Av, FMLx, stop, MH
+2 Av, F, stop, MH
+Delancey St Essex St, FJMZ, stop, MH
+East Broadway, F, stop, MH
+York St, F, stop, BK
+Bergen St, FG, stop, BK
+Carroll St, FG, stop, BK
+Smith 9 Sts, FG, stop, BK
+4 Av - 9 St, FGR, stop, BK
+7 Av, FG, stop, BK
+15 St Prospect Park, FG, stop, BK
+Fort Hamilton Pkwy, FG, stop, BK
+Church Av, FG, stop, BK
+Ditmas Av, F, stop, BK
+18 Av, F, stop, BK
+Avenue I, F, stop, BK
+Bay Pkwy, F, stop, BK
+Avenue N, F, stop, BK
+Avenue P, F, stop, BK
+Kings Hwy, F, stop, BK
+Avenue U, F, stop, BK
+Avenue X, F, stop, BK
+Neptune Av, F, stop, BK
+West 8 St NY Aquarium, FQ, stop, BK
+21 St, G, stop, QS
+Greenpoint Av, G, stop, BK
+Nassau Av, G, stop, BK
+Metropolitan Av, Gx, stop, BK
+Broadway, G, stop, BK
+Flushing Av, G, stop, BK
+Myrtle Willoughby Avs, G, stop, BK
+Bedford Nostrand Avs, G, stop, BK
+Classon Av, G, stop, BK
+Clinton Washington Avs, G, stop, BK
+Fulton St, G, stop, BK
+Broad St, JZ, stop, BK
+Chambers St, JZx, stop, BK
+Bowery, JZ, stop, BK
+Marcy Av, JMZ, junc, BK
+Hewes St, JM, stop, BK
+Lorimer St, JM, stop, BK
+Flushing Av, JM, stop, BK
+Myrtle Av, JMZ, junc, BK
+Kosciuszko St, J, stop, BK
+Gates Av, JZ, stop, BK
+Halsey St, J, stop, BK
+Chauncey St, JZ, stop, BK
+Alabama Av, J, stop, BK
+Van Siclen Av, JZ, stop, BK
+Cleveland St, J, stop, BK
+Norwood Av, JZ, stop, BK
+Crescent St, JZ, junc, BK
+Cypress Hills, J, stop, BK
+75 St - Elderts Ln, JZ, stop, QS
+85 St - Forest Pkwy, J, stop, QS
+Woodhaven Blvd, JZ, junc, QS
+104 St, JZ, stop, QS
+111 St, J, stop, QS
+121 St, JZ, stop, QS
+3 Av, L, stop, MH
+1 Av, L, stop, MH
+Bedford Av, L, stop, BK
+Lorimer St, Lx, stop, BK
+Graham Av, L, stop, BK
+Grand St, L, stop, BK
+Montrose Av, L, stop, BK
+Morgan Av, L, stop, BK
+Jefferson St, L, stop, BK
+DeKalb Av, L, stop, BK
+Halsey St, L, stop, BK
+Wilson Av, L, stop, BK
+Bushwick Av Aberdeen St, L, stop, BK
+Atlantic Av, L, stop, BK
+Sutter Av, L, stop, BK
+Livonia Av, L, stop, BK
+New Lots Av, L, stop, BK
+East 105 St, L, stop, BK
+Canarsie Rockaway Pkwy, L, stop, BK
+67 Av, MR, stop, QS
+63 Dr - Rego Park, MR, stop, QS
+Woodhaven Blvd, MR, stop, QS
+Grand Av Newtown, MR, stop, QS
+Elmhurst Av, MR, stop, QS
+65 St, MR, stop, QS
+Northern Blvd, MR, stop, QS
+46 St, MR, stop, QS
+Steinway St, MR, stop, QS
+36 St, MR, stop, QS
+Central Av, M, stop, BK
+Knickerbocker Av, M, stop, BK
+Myrtle Wyckoff Avs, LM, stop, BK
+Seneca Av, M, stop, QS
+Forest Av, M, stop, QS
+Fresh Pond Rd, M, stop, QS
+Middle Village Metropolitan Av, M, stop, QS
+Astoria Ditmars Blvd, NQ, stop, QS
+Astoria Blvd, NQ, stop, QS
+30 Av, NQ, stop, QS
+Broadway, NQ, stop, QS
+36 Av, NQ, stop, QS
+39 Av, NQ, stop, QS
+Lexington Av/59 St, NQRx, stop, MH
+5 Av/59 St, NQR, stop, MH
+57 St - 7 Av, NQR, junc, MH
+49 St, NQR, stop, MH
+28 St, NR, stop, MH
+23 St, NR, stop, MH
+8 St - NYU, NR, stop, MH
+Prince St, NR, stop, MH
+59 St, NR, junc, BK
+8 Av, N, stop, BK
+Fort Hamilton Pkwy, N, stop, BK
+New Utrecht Av, Nx, stop, BK
+18 Av, N, stop, BK
+20 Av, N, stop, BK
+Bay Pkwy, N, stop, BK
+Kings Hwy, N, stop, BK
+Avenue U, N, stop, BK
+86 St, N, stop, BK
+Parkside Av, Q, stop, BK
+Beverley Rd, Q, stop, BK
+Cortelyou Rd, Q, stop, BK
+Avenue H, Q, stop, BK
+Avenue J, Q, stop, BK
+Avenue M, Q, stop, BK
+Avenue U, Q, stop, BK
+Neck Rd, Q, stop, BK
+Ocean Pkwy, Q, stop, BK
+City Hall, R, stop, MH
+Cortlandt St, R, stop, MH
+Rector St, R, stop, MH
+Whitehall St South Ferry, Rx, stop, MH
+Court St, Rx, stop, BK
+Union St, R, stop, BK
+Prospect Av, R, stop, BK
+25 St, R, stop, BK
+45 St, R, stop, BK
+53 St, R, stop, BK
+Bay Ridge Av, R, stop, BK
+77 St, R, stop, BK
+86 St, R, stop, BK
+Bay Ridge 95 St, R, stop, BK
+Park Pl, S, stop, BK
+Botanic Garden, Sx, stop, BK
+St. George, Iy, stop, SI
+Tompkinsville, I, stop, SI
+Stapleton, I, stop, SI
+Clifton, I, stop, SI
+Grasmere, I, stop, SI
+Old Town, I, stop, SI
+Dongan Hills, I, stop, SI
+Jefferson Av, I, stop, SI
+Grant City, I, stop, SI
+New Dorp, I, stop, SI
+Oakwood Heights, I, stop, SI
+Bay Terrace, I, stop, SI
+Great Kills, I, stop, SI
+Eltingville, I, stop, SI
+Annadale, I, stop, SI
+Huguenot, I, stop, SI
+Prince's Bay, I, stop, SI
+Pleasant Plains, I, stop, SI
+Richmond Valley, I, stop, SI
+Nassau, I, stop, SI
+Atlantic, I, stop, SI
+Tottenville, I, stop, SI
