@@ -23,7 +23,7 @@ var svg = d3.select("body").append("svg")
     .attr("preserveAspectRatio", "xMidYMid meet");
 var labels = svg.selectAll(".node").append("text")
 	.text(function(d) { return d.type;});
-d3.json("subwayjsondata.json", function(error, graph) {
+d3.json("web/subwayjsondata.json", function(error, graph) {
 	force.nodes(graph.nodes)
 		 .links(graph.links)
 		 .gravity(3)
